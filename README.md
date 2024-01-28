@@ -1,2 +1,2 @@
 # Sword
-Scripts for reverse 3dmigoto mod.
+Deprecated scripts for reverse 3dmigoto mod.
